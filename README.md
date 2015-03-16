@@ -46,7 +46,7 @@ Custom path to a Symfony installation. By default the current working dir is use
 A specific format used to generate database description and other things. By default it's *annotation*.
 
 `--no-ts`
-By default, EntitiesMk cleverly insert a __toString method to your entities. This way, no __toString missing error.
+By default, EntitiesMk cleverly inserts a __toString method to your entities. This way, no __toString missing error.
 But if you don't like this comportment, you can desactivate it with this parameter.
 
 `--rollback`
